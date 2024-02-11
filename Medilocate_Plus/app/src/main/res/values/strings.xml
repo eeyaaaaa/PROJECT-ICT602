@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Medilocate_Plus</string>
+    <!--<string name="default_web_client_id"></string>-->
+    <string name="about_us_desc">Medilocate Plus: Your trusted medical assistance for finding nearby healthcare providers. Easily search and explore hospital locations. Make informed decisions with detailed information. Download now and take control of your healthcare journey.
+    </string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_my_location">MyLocation</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">Click to register</string>
+    <string name="Continue">Continue</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

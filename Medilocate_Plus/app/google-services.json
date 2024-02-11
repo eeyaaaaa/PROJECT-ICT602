@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "661411698068",
+    "project_id": "medilocateplus",
+    "storage_bucket": "medilocateplus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661411698068:android:46e1028774c3ca1e0dab81",
+        "android_client_info": {
+          "package_name": "com.example.medilocate_plus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKsp7N2L_xCtJnOfj0R7Ulu8NL_-lP3u8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
